@@ -1,5 +1,7 @@
 # Brainy
 
+![Brainy](brainy.png)
+
 A Simon Says memory game for the Flipper Zero, featuring Brainy — a pixel-art brain mascot who challenges your memory one step at a time.
 
 ## How to play
