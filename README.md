@@ -12,6 +12,9 @@ Watch the sequence of flashing d-pad buttons, then repeat it in the same order. 
 - **Up / Down / Left / Right** — press the matching button during your turn
 - **Back** — return to the title screen
 
+![Screenshot](screenshot_1.png)
+![Screenshot](screenshot_2.png)
+
 ## Features
 
 - 100-step sequence cap — beat it and you win
